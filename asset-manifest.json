@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ManasiBhutada/react-webapp.git/static/css/main.073c9b0a.css",
+    "main.js": "/ManasiBhutada/react-webapp.git/static/js/main.2f342c34.js",
+    "static/js/787.71e672d5.chunk.js": "/ManasiBhutada/react-webapp.git/static/js/787.71e672d5.chunk.js",
+    "static/media/logo.svg": "/ManasiBhutada/react-webapp.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ManasiBhutada/react-webapp.git/index.html",
+    "main.073c9b0a.css.map": "/ManasiBhutada/react-webapp.git/static/css/main.073c9b0a.css.map",
+    "main.2f342c34.js.map": "/ManasiBhutada/react-webapp.git/static/js/main.2f342c34.js.map",
+    "787.71e672d5.chunk.js.map": "/ManasiBhutada/react-webapp.git/static/js/787.71e672d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2f342c34.js"
+  ]
+}
